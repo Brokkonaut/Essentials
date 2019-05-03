@@ -41,6 +41,7 @@ public enum Mob {
     MAGMACUBE("MagmaCube", Enemies.ENEMY, EntityType.MAGMA_CUBE),
     SNOWMAN("Snowman", Enemies.FRIENDLY, "", EntityType.SNOWMAN),
     OCELOT("Ocelot", Enemies.NEUTRAL, EntityType.OCELOT),
+    CAT("Cat", Enemies.NEUTRAL, EntityType.CAT),
     IRONGOLEM("IronGolem", Enemies.NEUTRAL, EntityType.IRON_GOLEM),
     WITHER("Wither", Enemies.ENEMY, EntityType.WITHER),
     BAT("Bat", Enemies.FRIENDLY, EntityType.BAT),
