@@ -5,7 +5,6 @@ import com.earth2me.essentials.User;
 import org.bukkit.Location;
 import org.bukkit.Server;
 import org.bukkit.entity.Cat;
-import org.bukkit.entity.Ocelot;
 
 import java.util.Random;
 
